@@ -1,36 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
+# Multimedia Application Documentation
 
-<h1>Multimedia-Application</h1>
-<p>Welcome to the Multimedia-Application GitHub repository, showcasing a comprehensive application with support for image, video, audio, and document files.</p>
+## Table of Contents
 
-<h2>Project Overview</h2>
-<p>The foundation of this project began with the creation of a JavaScript-based "Header" component, a simplistic yet essential element displaying our team's name and initials. Additionally, we developed a JavaScript file named "data" to manage file details (such as path, name, type), storing this information in a database while the actual files reside in storage, such as Google Drive.</p>
+1. [Introduction](#introduction)
+2. [Project Overview](#project-overview)
+3. [Application Functions](#application-functions)
+4. [Deployment on Google Firebase](#deployment-on-google-firebase)
 
-<p>The application is designed with custom components tailored for handling various file types:</p>
+## 1. Introduction
 
-<ul>
-  <li><strong>Video Component</strong>: Enables seamless video playback within the application.</li>
-  <li><strong>Audio Component</strong>: Provides an integrated audio player for audio file streaming.</li>
-  <li><strong>Document Component</strong>: Renders documents with supported formats for easy viewing.</li>
-  <li><strong>Image Component</strong>: Allows smooth image display and manipulation.</li>
-</ul>
+Welcome to the Multimedia Application GitHub repository. This documentation provides an in-depth overview of our comprehensive application designed to support various file types, including images, videos, audios, and documents.
 
-<h2>Application Functions</h2>
-<p>Our application extends functionality across four key areas:</p>
+## 2. Project Overview
 
-<ol>
-  <li><strong>Rename Files</strong>: Allows users to modify file names for better organization and identification.</li>
-  <li><strong>Delete Files</strong>: Provides the capability to remove unwanted files securely.</li>
-  <li><strong>View File Type Breakdown</strong>: Presents a breakdown of file types, aiding in understanding file distribution.</li>
-  <li><strong>Download Files</strong>: Facilitates hassle-free downloading of files from the application interface.</li>
-</ol>
+The Multimedia Application project originated with the development of a JavaScript-based "Header" component, serving as a fundamental yet vital element displaying our team's name and initials. Furthermore, we created a JavaScript file named "data" to manage file details such as path, name, and type, storing this information in a database while the actual files reside in storage, such as Google Drive.
 
-<h2>Deployment on Google Firebase</h2>
-<p>We chose Google Firebase for deploying our application, leveraging its robust features like real-time database, authentication, and cloud functions. This choice ensures scalability and high-performance delivery.</p>
+The application is equipped with custom components tailored to handle different file types:
 
-<p>You can access the live application via this link: <a href="https://sunny-multimedia-app-26a49.web.app/" target="_blank">Multimedia Application</a></p>
+- **Video Component**: Enables seamless video playback within the application.
+- **Audio Component**: Provides an integrated audio player for streaming audio files.
+- **Document Component**: Renders documents with supported formats for easy viewing.
+- **Image Component**: Allows smooth display and manipulation of images.
 
-</body>
-</html>
+## 3. Application Functions
+
+Our application extends functionality across four key areas:
+
+1. **Rename Files**: Allows users to modify file names for better organization and identification.
+2. **Delete Files**: Provides the capability to securely remove unwanted files.
+3. **View File Type Breakdown**: Presents a breakdown of file types, aiding in understanding file distribution.
+4. **Download Files**: Facilitates hassle-free downloading of files from the application interface.
+
+## 4. Deployment on Google Firebase
+
+We selected Google Firebase for deploying our application due to its robust features such as real-time database, authentication, and cloud functions. This choice ensures scalability and high-performance delivery.
+
+You can access the live application via this link: [Multimedia Application](https://sunny-multimedia-app-26a49.web.app/)
+
