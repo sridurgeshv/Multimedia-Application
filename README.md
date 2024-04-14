@@ -36,4 +36,3 @@ Our application extends functionality across four key areas:
 We selected Google Firebase for deploying our application due to its robust features such as real-time database, authentication, and cloud functions. This choice ensures scalability and high-performance delivery.
 
 You can access the live application via this link: [Multimedia Application](https://sunny-multimedia-app-26a49.web.app/)
-
